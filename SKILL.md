@@ -14,7 +14,7 @@ If the user specifies gear (camera body, lens, film stock, digital settings), in
 ### 📸 Instagram
 - **Tone**: Short, evocative, slightly poetic or witty. Let the image speak.
 - **Format**: 1-2 line caption → blank line → gear line (if provided) → blank line → hashtags.
-- **Hashtags**: 10-15 relevant tags. Include `#photography`, location tags, gear tags (e.g. `#kodaktrix`, `#sonygm`), and mood/genre tags. Add `#filmphotography #shootfilm #filmisnotdead` for analog shots.
+- **Hashtags**: Exactly 5 tags (Instagram's current limit). Pick the 5 most impactful: prioritize genre (e.g. `#filmphotography`), location, film stock/gear, and one mood/style tag. Quality over quantity.
 
 ### 📷 Flickr
 - **Tone**: Slightly more descriptive and contemplative. Flickr audiences appreciate story and craft.
