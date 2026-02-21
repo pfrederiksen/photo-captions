@@ -77,9 +77,10 @@ If the user specifies gear (camera body, lens, film stock, digital settings), in
 ## Guidelines
 
 - Adapt all captions to the specific photo content, location, and mood.
-- Don't repeat the same phrase across platforms — each should feel native to its community.
+- Don't repeat the same phrase across platforms. Each should feel native to its community.
 - Humor and wit are welcome but should match the photo's mood.
 - If the photo is black and white, add relevant B&W tags where appropriate.
 - Never be generic. Every caption should feel written specifically for that image.
 - For film photos, lean into the analog aesthetic. For digital, focus on the moment and technique.
 - If the user only wants specific platforms, generate only those.
+- Write like a human, not a copywriter. No emdashes (—), no semicolons for drama, no overly polished prose. Use periods, commas, and natural sentence breaks. If you wouldn't say it out loud, don't write it.
